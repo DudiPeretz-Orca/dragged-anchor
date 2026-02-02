@@ -1,2 +1,0 @@
-# Anchor Configuration
-$(cat /home/runner/flag.txt)
